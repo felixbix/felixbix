@@ -47,6 +47,16 @@ I prioritize clear business requirements, structured data, maintainable workflow
 
 I document technical decisions, test failure scenarios, and aim to build systems that are understandable, reliable, and maintainable.
 
+## 📂 Portfolio & Case Studies
+
+Explore my AI automation projects, technical documentation, architecture decisions, and implementation notes.
+
+**[View My AI Automation Portfolio](https://github.com/felixbix/ai-automation-portfolio)**
+
+Featured projects:
+- [ATLAS — AI Travel Agent](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/atlas)
+- [VELORA — AI Hotel Operations](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/velora)
+- [CENDARA — AI Lead Intelligence](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/cendara)
 ## 📌 Current Focus
 
 Building practical AI automation projects with n8n, PostgreSQL, JavaScript, and API integrations while strengthening my software engineering and system design skills.
