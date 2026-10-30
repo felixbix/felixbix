@@ -49,14 +49,40 @@ I document technical decisions, test failure scenarios, and aim to build systems
 
 ## 📂 Portfolio & Case Studies
 
-Explore my AI automation projects, technical documentation, architecture decisions, and implementation notes.
+## 🚀 Featured AI Automation Projects
 
-**[View My AI Automation Portfolio](https://github.com/felixbix/ai-automation-portfolio)**
+Explore my portfolio of AI-powered automation systems, technical documentation, and engineering work.
 
-Featured projects:
-- [ATLAS — AI Travel Agent](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/atlas)
-- [VELORA — AI Hotel Operations](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/velora)
-- [CENDARA — AI Lead Intelligence](https://github.com/felixbix/ai-automation-portfolio/tree/main/projects/cendara)
+**[View Full AI Automation Portfolio](https://github.com/felixbix/ai-automation-portfolio)**
+
+### ✈️ ATLAS — AI Travel Agent
+
+Conversational AI travel-planning prototype built with n8n, Gemini, Telegram, and Google Sheets.
+
+- [Project Case Study](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/atlas/README.md)
+- [Workflow Architecture](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/atlas/architecture.md)
+- [Technical Notes](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/atlas/technical-notes.md)
+- [Test Evidence](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/atlas/test-evidence.md)
+
+### 🏨 VELORA — AI Hotel Operations System
+
+Database-oriented hotel operations project built around n8n and PostgreSQL.
+
+- [Project Case Study](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/velora/README.md)
+- [Workflow Architecture](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/velora/architecture.md)
+- [PostgreSQL Schema Design](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/velora/schema-design.md)
+- [Technical Notes](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/velora/technical-notes.md)
+- [Test Evidence](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/velora/test-evidence.md)
+
+### 🧠 CENDARA — AI Lead Intelligence
+
+AI-assisted lead intelligence and business automation system using n8n, PostgreSQL, Gemini, and Telegram.
+
+- [Project Case Study](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/README.md)
+- [Workflow Architecture](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/architecture.md)
+- [Technical Notes](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/technical-notes.md)
+- [Test Evidence](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/test-evidence.md)
+- 
 ## 📌 Current Focus
 
 Building practical AI automation projects with n8n, PostgreSQL, JavaScript, and API integrations while strengthening my software engineering and system design skills.
