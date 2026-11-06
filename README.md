@@ -89,4 +89,14 @@ Building practical AI automation projects with n8n, PostgreSQL, JavaScript, and 
 
 ---
 
-**This portfolio is a work in progress.** Project documentation and implementation details will evolve as development and testing continue.
+📚 What I'm Currently Building
+
+Developing practical AI automation systems while strengthening my skills in JavaScript, PostgreSQL, API integration and workflow engineering.
+
+🤝 Let's Connect
+
+Portfolio: https://felixbix.github.io/
+
+LinkedIn: https://www.linkedin.com/in/felix-edinoh-85438331a/
+
+X: https://x.com/Felix_bix
