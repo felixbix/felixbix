@@ -83,10 +83,6 @@ AI-assisted lead intelligence and business automation system using n8n, PostgreS
 - [Technical Notes](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/technical-notes.md)
 - [Test Evidence](https://github.com/felixbix/ai-automation-portfolio/blob/main/projects/cendara/test-evidence.md)
 - 
-## 📌 Current Focus
-
-Building practical AI automation projects with n8n, PostgreSQL, JavaScript, and API integrations while strengthening my software engineering and system design skills.
-
 ---
 
 📚 What I'm Currently Building
